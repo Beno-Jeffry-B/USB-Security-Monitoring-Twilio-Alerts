@@ -102,7 +102,7 @@ Open PowerShell as Administrator (This is mandatory to allow blocking USB device
 Run the Script
 
 ```
-.\monitor.ps1
+.\MonitorUSB.ps1
 
 ```
 
